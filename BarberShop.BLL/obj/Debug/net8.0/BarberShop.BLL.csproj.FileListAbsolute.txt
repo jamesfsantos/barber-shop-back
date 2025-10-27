@@ -1,0 +1,17 @@
+C:\Users\admin\barber-shop-api\BarberShop.BLL\bin\Debug\net8.0\BarberShop.BLL.deps.json
+C:\Users\admin\barber-shop-api\BarberShop.BLL\bin\Debug\net8.0\BarberShop.BLL.dll
+C:\Users\admin\barber-shop-api\BarberShop.BLL\bin\Debug\net8.0\BarberShop.BLL.pdb
+C:\Users\admin\barber-shop-api\BarberShop.BLL\bin\Debug\net8.0\BarberShop.Core.dll
+C:\Users\admin\barber-shop-api\BarberShop.BLL\bin\Debug\net8.0\BarberShop.DAL.dll
+C:\Users\admin\barber-shop-api\BarberShop.BLL\bin\Debug\net8.0\BarberShop.Core.pdb
+C:\Users\admin\barber-shop-api\BarberShop.BLL\bin\Debug\net8.0\BarberShop.DAL.pdb
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberShop.BLL.csproj.AssemblyReference.cache
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberShop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberShop.BLL.AssemblyInfoInputs.cache
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberShop.BLL.AssemblyInfo.cs
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberShop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberSh.6FEA625A.Up2Date
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberShop.BLL.dll
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\refint\BarberShop.BLL.dll
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\BarberShop.BLL.pdb
+C:\Users\admin\barber-shop-api\BarberShop.BLL\obj\Debug\net8.0\ref\BarberShop.BLL.dll

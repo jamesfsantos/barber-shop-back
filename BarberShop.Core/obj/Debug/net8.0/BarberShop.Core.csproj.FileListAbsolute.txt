@@ -1,0 +1,11 @@
+C:\Users\admin\barber-shop-api\BarberShop.Core\bin\Debug\net8.0\BarberShop.Core.deps.json
+C:\Users\admin\barber-shop-api\BarberShop.Core\bin\Debug\net8.0\BarberShop.Core.dll
+C:\Users\admin\barber-shop-api\BarberShop.Core\bin\Debug\net8.0\BarberShop.Core.pdb
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.AssemblyInfoInputs.cache
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.AssemblyInfo.cs
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.dll
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\refint\BarberShop.Core.dll
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\BarberShop.Core.pdb
+C:\Users\admin\barber-shop-api\BarberShop.Core\obj\Debug\net8.0\ref\BarberShop.Core.dll

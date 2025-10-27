@@ -1,0 +1,17 @@
+C:\Users\admin\barber-shop-api\BarberShop.DAL\bin\Debug\net8.0\BarberShop.DAL.deps.json
+C:\Users\admin\barber-shop-api\BarberShop.DAL\bin\Debug\net8.0\BarberShop.DAL.dll
+C:\Users\admin\barber-shop-api\BarberShop.DAL\bin\Debug\net8.0\BarberShop.DAL.pdb
+C:\Users\admin\barber-shop-api\BarberShop.DAL\bin\Debug\net8.0\BarberShop.Core.dll
+C:\Users\admin\barber-shop-api\BarberShop.DAL\bin\Debug\net8.0\BarberShop.Core.pdb
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.AssemblyInfo.cs
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberSh.D5D89637.Up2Date
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.dll
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\refint\BarberShop.DAL.dll
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.pdb
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\ref\BarberShop.DAL.dll
+C:\Users\admin\barber-shop-api\BarberShop.DAL\bin\Debug\net8.0\BarberShop.DAL.runtimeconfig.json
+C:\Users\admin\barber-shop-api\BarberShop.DAL\obj\Debug\net8.0\BarberShop.DAL.genruntimeconfig.cache

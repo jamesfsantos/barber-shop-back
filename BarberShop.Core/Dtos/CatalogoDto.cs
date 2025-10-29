@@ -11,7 +11,7 @@ namespace BarberShop.Core.Dtos
 
             if (catalogo.CatalogosItems!=null && catalogo.CatalogosItems.Any())
             {
-                CatalogosItems = catalogo.CatalogosItems.Select(catalogoItem=>new CatalogoItemDto(catalogoItem)).ToList();
+                CatalogosItems = catalogo.CatalogosItems.Select(catalogoItem=>new CatalogoItemDto(catalogoItem)).OrderBy(x => x.Ordem).ToList();
             }
 
 

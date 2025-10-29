@@ -11,11 +11,11 @@ namespace BarberShop.Core.Dtos
             ItemId = catalogoItem.ItemId;   
             Ordem = catalogoItem.Ordem;
             Item = catalogoItem.Item.Nome;
+            Preco = catalogoItem.Item.Preco;
         }
 
         public CatalogoItemDto()
-        {
-            
+        {            
         }
 
         public int Id { get; set; }
@@ -23,6 +23,7 @@ namespace BarberShop.Core.Dtos
         public int ItemId { get; set; }
         public int Ordem { get; set; } = 1;
         public string Item { get; set; }
+        public decimal Preco { get; set; }
         
     }
 }

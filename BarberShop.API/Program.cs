@@ -34,6 +34,7 @@ namespace BarberShop.API
 
             builder.Services.AddScoped<IItemService, ItemService>();
             builder.Services.AddScoped<ICatalogoService, CatalogoService>();
+            builder.Services.AddScoped<IGaleriaService, GaleriaService>();
 
 
             var app = builder.Build();

@@ -1,0 +1,5 @@
+services:
+  barberhop-api:
+    build: .
+    ports: 
+      - "9000:80"

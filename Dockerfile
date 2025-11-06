@@ -19,7 +19,7 @@ WORKDIR /app
 EXPOSE 80
 
 ENV ASPNETCORE_HTTP_PORTS=80
-
+ENV ASPNETCORE_ENVIRONMENT=Release
 
 # This stage is used to build the service project
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build

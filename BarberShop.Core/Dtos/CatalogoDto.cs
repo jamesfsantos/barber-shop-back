@@ -9,7 +9,7 @@ namespace BarberShop.Core.Dtos
             Id = catalogo.Id;
             Nome = catalogo.Nome;
 
-            if (catalogo.CatalogosItems!=null && catalogo.CatalogosItems.Any())
+            if (catalogo.CatalogosItems != null && catalogo.CatalogosItems.Any())
             {
                 CatalogosItems = catalogo.CatalogosItems.Select(catalogoItem=>new CatalogoItemDto(catalogoItem)).OrderBy(x => x.Ordem).ToList();
             }
